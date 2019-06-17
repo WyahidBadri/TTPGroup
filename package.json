@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express-generator": "^4.16.1"
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "morgan": "^1.9.1",
+    "pg": "^7.11.0"
   },
   "devDependencies": {},
   "scripts": {
